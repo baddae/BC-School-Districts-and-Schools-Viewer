@@ -26,7 +26,7 @@ This application allows users to search for an address in British Columbia, high
    - The data for this web map is obtained from the BC Data Catalogue.
 
 ## Live Demo
-   - You can view and test the application on CodePen: School Districts in BC
+   - You can view and test the application on CodePen:[BC School Districts](https://codepen.io/baddae/pen/YzmQdEB)  
 
 ### License
    - This project is licensed under the MIT License. See the LICENSE file for details.
