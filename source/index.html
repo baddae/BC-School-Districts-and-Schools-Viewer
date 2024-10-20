@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Districts in BC</title>
+    <link rel="stylesheet" href="https://js.arcgis.com/4.21/esri/themes/light/main.css">
+    <script src="https://js.arcgis.com/4.21/"></script>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div id="viewDiv"></div>
+    <div id="searchDiv"></div>
+    <div id="filterDiv">
+        <label for="schoolCat">School Category:</label>
+        <select id="schoolCat">
+            <option value="">-- Select Category --</option>
+        </select>
+        <br><br>
+
+        <label for="earlyFren">Early French:</label>
+        <select id="earlyFren">
+            <option value="">-- Select Early French --</option>
+        </select>
+        <br><br>
+
+        <label for="schoolEdu">School Education:</label>
+        <select id="schoolEdu">
+            <option value="">-- Select School Education --</option>
+        </select>
+        <br><br>
+
+        <button id="filter-btn">Filter Schools</button>
+    </div>
+</body>
+</html>
