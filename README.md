@@ -23,10 +23,10 @@ This application allows users to search for an address in British Columbia, high
    - Click on any school point on the map to view additional information about the school in a popup.
 
 ## Data Source
-   - The data for this web map is obtained from the BC Data Catalogue.
+   - The data for this web map is obtained from the [BC Data Catalogue](https://catalogue.data.gov.bc.ca/dataset/school-districts-of-bc).
 
 ## Live Demo
-   - You can view and test the application on CodePen:[BC School Districts](https://codepen.io/baddae/pen/YzmQdEB)  
+   - You can view and test the application on CodePen: [BC School Districts](https://codepen.io/baddae/pen/YzmQdEB)  
 
 ### License
    - This project is licensed under the MIT License. See the LICENSE file for details.
